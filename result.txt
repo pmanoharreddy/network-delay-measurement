@@ -1,0 +1,5 @@
+Single switch delay: ~1 ms
+Multi-switch delay: ~3–6 ms
+
+Observation:
+First packet delay is high due to controller.
