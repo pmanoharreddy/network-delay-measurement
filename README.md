@@ -29,6 +29,17 @@ Check flows:
 sudo ovs-ofctl dump-flows s1
 sudo ovs-ofctl dump-flows s2
 
+## Screenshots
+
+### POX Controller
+![POX](screenshots/pox_controller.png)
+
+### Ping Results
+![Ping](screenshots/ping_results.png)
+
+### Flow Table
+![Flow](screenshots/flow_table.png)
+
 ## Observations
 - First packet delay is high
 - Later packets are faster
