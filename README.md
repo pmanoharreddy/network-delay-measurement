@@ -32,13 +32,14 @@ sudo ovs-ofctl dump-flows s2
 ## Screenshots
 
 ### POX Controller
-![POX](screenshots/pox_controller.png)
+![POX](pox.jpeg)
 
 ### Ping Results
-![Ping](screenshots/ping_results.png)
+![Ping](mininet1.jpeg)
+![Ping](mininet2.jpeg)
 
 ### Flow Table
-![Flow](screenshots/flow_table.png)
+![Flow](flow_table.jpeg)
 
 ## Observations
 - First packet delay is high
